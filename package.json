@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "firebase": "^8.3.0",
+    "movie-trailer": "^2.1.0",
+    "react-youtube": "^7.13.1"
+  },
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "Discover movies and trailers  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanderT4/Netflix-Clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanderT4/Netflix-Clone/issues"
+  },
+  "homepage": "https://github.com/vanderT4/Netflix-Clone#readme"
+}
